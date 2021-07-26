@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 
-# MIME-Version: 1.0
-# Content-Type: text/html; charset="utf-8"
-# Content-Transfer-Encoding: base64
-
 import base64
 import datetime
 import os
